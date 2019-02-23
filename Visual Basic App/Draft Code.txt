@@ -1,0 +1,40 @@
+strTextDoc = "UserDelivery.txt"
+
+        Call InputInfo(strTextDoc, strContact)
+
+
+        If strCardName <> "" And strCardNum <> "" And strCardExp <> "" And strCardCvv <> "" And strStreet <> "" And strApt <> "" And strCity <> "" And strState <> "" And strZip <> "" Then
+            strPayment(0) = strCardName
+            strPayment(1) = strCardNum
+            strPayment(2) = strCardExp
+            strPayment(3) = strCardCvv
+
+            strBilling(0) = strStreet
+            strBilling(1) = strApt
+            strBilling(2) = strCity
+            strBilling(3) = strState
+            strBilling(4) = strZip
+
+        Else
+            lblSorry.Text = "Sorry" ' Can take this out later
+        End If
+
+        Do While intArray <= strPayment.Length - 1
+            strPay += strPayment(intArray) & ","
+            intArray += 1
+        Loop
+
+        lblSorry.Text = strPay
+
+        strTextDoc = "PaymentInfo.txt"
+
+        Call InputInfo(strTextDoc, strPay)
+
+        Do While intArray <= strBilling.Length - 1
+            strBill += strBilling(intArray) & ","
+            intArray += 1
+        Loop
+
+        strTextDoc = "BillingInfo.txt"
+
+        Call InputInfo(strTextDoc, strBill)

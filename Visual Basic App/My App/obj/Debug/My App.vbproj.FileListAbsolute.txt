@@ -1,0 +1,59 @@
+C:\Users\Lori\Desktop\My App\My App\My App\bin\Debug\My App.exe.config
+C:\Users\Lori\Desktop\My App\My App\My App\bin\Debug\My App.exe
+C:\Users\Lori\Desktop\My App\My App\My App\bin\Debug\My App.pdb
+C:\Users\Lori\Desktop\My App\My App\My App\bin\Debug\My App.xml
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My_App.Login.resources
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My_App.SignUp.resources
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My_App.Splash.resources
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My_App.Resources.resources
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My App.vbproj.GenerateResource.Cache
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My App.exe
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My App.xml
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My App.pdb
+C:\Users\Lori\Desktop\My App\My App\My App\obj\Debug\My_App.Main.resources
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\bin\Debug\My App.exe.config
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My App.exe
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My App.xml
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My App.pdb
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\bin\Debug\My App.exe
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\bin\Debug\My App.pdb
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\bin\Debug\My App.xml
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My_App.Login.resources
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My_App.Main.resources
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My_App.SignUp.resources
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My_App.Splash.resources
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My_App.Resources.resources
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My App.vbproj.GenerateResource.Cache
+C:\Users\Lori\Desktop\CIS36\My App\My App\My App\obj\Debug\My_App.Account.resources
+F:\My App\My App\My App\bin\Debug\My App.exe.config
+F:\My App\My App\My App\obj\Debug\My App.exe
+F:\My App\My App\My App\obj\Debug\My App.xml
+F:\My App\My App\My App\obj\Debug\My App.pdb
+F:\My App\My App\My App\bin\Debug\My App.exe
+F:\My App\My App\My App\bin\Debug\My App.pdb
+F:\My App\My App\My App\bin\Debug\My App.xml
+F:\My App\My App\My App\obj\Debug\My_App.Account.resources
+F:\My App\My App\My App\obj\Debug\My_App.Login.resources
+F:\My App\My App\My App\obj\Debug\My_App.Main.resources
+F:\My App\My App\My App\obj\Debug\My_App.SignUp.resources
+F:\My App\My App\My App\obj\Debug\My_App.Splash.resources
+F:\My App\My App\My App\obj\Debug\My_App.Resources.resources
+F:\My App\My App\My App\obj\Debug\My App.vbproj.GenerateResource.Cache
+F:\My App\My App\bin\Debug\My App.exe.config
+F:\My App\My App\obj\Debug\My App.exe
+F:\My App\My App\obj\Debug\My App.xml
+F:\My App\My App\obj\Debug\My App.pdb
+F:\My App\My App\bin\Debug\My App.exe
+F:\My App\My App\bin\Debug\My App.pdb
+F:\My App\My App\bin\Debug\My App.xml
+F:\My App\My App\obj\Debug\My_App.Account.resources
+F:\My App\My App\obj\Debug\My_App.Login.resources
+F:\My App\My App\obj\Debug\My_App.Main.resources
+F:\My App\My App\obj\Debug\My_App.SignUp.resources
+F:\My App\My App\obj\Debug\My_App.Splash.resources
+F:\My App\My App\obj\Debug\My_App.Resources.resources
+F:\My App\My App\obj\Debug\My App.vbproj.GenerateResource.Cache
+\\Vboxsvr\f_drive\My App\My App\bin\Debug\My App.exe.config
+\\Vboxsvr\f_drive\My App\My App\obj\Debug\My App.exe
+\\Vboxsvr\f_drive\My App\My App\obj\Debug\My App.xml
+\\Vboxsvr\f_drive\My App\My App\obj\Debug\My App.pdb
